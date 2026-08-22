@@ -36,7 +36,7 @@ img { max-width: 100%; }
 /* topbar - outside paper, minimal */
 .topbar {
   position: sticky; top: 0; z-index: 997;
-  background: rgba(240,240,240,0.88);
+  background: rgba(255,255,255,0.92);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(0,0,0,0.06);
   padding: 10px 0;
