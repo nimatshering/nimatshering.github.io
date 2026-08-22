@@ -248,7 +248,7 @@ img { max-width: 100%; }
 @media (max-width:880px){ .paper-footer{ padding:12px 20px; } }
 
 /* Site footer outside */
-.site-footer{ padding:16px 0; font-family:var(--font-mono); font-size:11px; color:#5a6470; background: var(--outer); border-top:1px solid rgba(0,0,0,0.06); }
+.site-footer{ padding:16px 0; font-family:var(--font-mono); font-size:11px; color:#5a6470; background: #ffffff; border-top:1px solid rgba(0,0,0,0.06); }
 .site-footer a{ font-weight:600; color:var(--ink); }
 .footer-links{ display:flex; gap:14px; }
 
